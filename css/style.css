@@ -1,0 +1,13 @@
+body{
+	color: #fff;
+	text-align: center;
+	background-image: url(../images/weather-wallpaper.jpg);
+	background-size: 100%;
+}
+button{
+	background-color: #0e71e6;
+	padding: 10px;
+}
+h1{
+	margin-top: 250px;
+}
